@@ -18,7 +18,7 @@ Off-Chain Rewards System: The additional content and card details are handled th
 
 Preview
 
-| ![Screenshot 1](https://github.com/user-attachments/assets/c773e60b-df88-4aba-a2a8-9915f7b2c162) | ![Screenshot 2](https://github.com/user-attachments/assets/14e0b7a4-cd76-4c1a-9ddf-5d945bbc6409) | ![Screenshot 3](https://github.com/user-attachments/assets/70260ddf-2235-4a89-a221-4299112aee59) |
+| ![Screenshot 1](https://github.com/user-attachments/assets/c773e60b-df88-4aba-a2a8-9915f7b2c162) | ![Screenshot 2](https://github.com/user-attachments/assets/70260ddf-2235-4a89-a221-4299112aee59) | ![Screenshot 3](https://github.com/user-attachments/assets/14e0b7a4-cd76-4c1a-9ddf-5d945bbc6409) |
 | --- | --- | --- |
 
 
