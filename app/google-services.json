@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609068471579",
+    "project_id": "zeldamexchain",
+    "storage_bucket": "zeldamexchain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609068471579:android:d12198952fe55cac39efbe",
+        "android_client_info": {
+          "package_name": "com.mg.zeldamexchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ2FsUhalqkX5qqn7934pANf9tczjrAHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
